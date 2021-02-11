@@ -1,0 +1,19 @@
+
+body {
+    font-family: 'Noto Serif', serif;
+    line-height: 1.7;
+    display: block;
+    background-color: #fff5cc;
+}
+div {
+    margin: 0 auto;
+    padding: 20px;
+    width: 50%;
+    text-align: center;
+}
+h1 {
+    font-size: 20px;
+}
+span {
+    color: #ff1a1a;
+}
