@@ -25,3 +25,6 @@ a:hover {
     color: white;
     background-color: #ff1a1a;
 }
+i {
+    padding-right: 5px;
+}
