@@ -2,3 +2,9 @@ autoprefixer-cli -o main.prefixed.css main.css
 autoprefixer-cli -h
 
 html-validate FILENAME..
+
+
+
+install:
+npm install --save-dev global autoprefixer-cli
+npm install --save-dev html-validate
